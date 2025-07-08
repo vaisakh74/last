@@ -1,0 +1,78 @@
+#navbarNav {
+    justify-content: end;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 200px;
+
+
+
+
+}
+
+.navbar-nav {
+    padding-left: 20px;
+    padding-right: 30px;
+    gap: 5vh;
+}
+
+.three {
+    margin-top: 30px;
+    /* background-color: blue; */
+    padding-top: 250px;
+    padding-bottom: 400px;
+}
+
+body {
+    background-color: rgb(177, 176, 176);
+}
+
+.image1 {
+    border-radius: 50%;
+}
+
+.BUTTON {
+    padding-right: 300PX;
+    padding-top: 50px;
+}
+
+.btn {
+    background-color: rgb(102, 109, 109);
+    color: azure;
+
+}
+
+.container1 {
+    padding-left: 250px;
+    padding-top: 40px;
+}
+
+.card {
+    padding: 50PX;
+
+    background-color: rgb(148, 151, 151);
+
+}
+
+.para {
+    position: relative;
+    right: 500px;
+
+}
+
+.card-body1 {
+    margin-top: 100px;
+    border: solid;
+    color: rgb(190, 190, 190);
+    font-family: cursive;
+    padding-top: 250px;
+    padding-left: 200px;
+    margin-right: 200px;
+    padding-bottom: -200px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    padding-bottom: -300px;
+
+    display: flex;
+    background-color: rgba(51, 53, 53, 0.466);
+
+}
