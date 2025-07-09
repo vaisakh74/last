@@ -88,12 +88,9 @@ body {
 }
 
 .form {
-    padding-top: 200px;
-    padding-left: 100px;
-
-    margin-right: 1200px;
-    font-family: cursive;
-    color: rgba(189, 63, 4, 0.774);
+    padding-top: 160px;
+    padding-left: 20vh;
+    padding-right: 20vh;
 
 }
 
