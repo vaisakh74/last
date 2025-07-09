@@ -76,3 +76,33 @@ body {
     background-color: rgba(51, 53, 53, 0.466);
 
 }
+
+.row6 {
+    margin-top: 110px;
+    padding-left: 100px;
+    padding-top: 100px;
+    background-color: rgb(158, 157, 157);
+
+
+    display: flex;
+}
+
+.form {
+    padding-top: 200px;
+    padding-left: 100px;
+
+    margin-right: 1200px;
+    font-family: cursive;
+    color: rgba(189, 63, 4, 0.774);
+
+}
+
+#body6 {
+    background-image: url(./image/align-fingers-71282_1280.jpg);
+    filter: blur(0px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(4px);
+
+}
